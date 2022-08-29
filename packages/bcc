@@ -20,6 +20,8 @@ python
 clang-11
 python-netaddr
 python-pyroute2
+python3-distutils
+python-bpfcc
 "
 
 INSTALL_BCC=1
